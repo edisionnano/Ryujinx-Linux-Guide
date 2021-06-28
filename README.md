@@ -20,4 +20,6 @@ Unlike Windows or Mac Os on Linux we have to ability to choose our desktop envir
 There are two ways to use Rujinx on a Linux system; you can either download it from the website and run the executable file or use the installer script Pinejinx to install it on your system like a normal app with some GPU vendor specific optimizations. Both ways will be covered.
 
 ### A. Downloading and running Ryujinx manually
-First of all you have to download Ryujinx, this can be the master version from the [official website](https://ryujinx.org/download/), the LDN build from the [Patreon page](https://www.patreon.com/posts/introducing-ldn2-45268370) or a PR testing build posted by the bot on GitHub.
+First of all you have to download Ryujinx, this can be the master version from the [official website](https://ryujinx.org/download/), the LDN build from the [Patreon page](https://www.patreon.com/posts/introducing-ldn2-45268370) or a PR testing build posted by the bot on GitHub. After you do so you must extract the publish folder inside of the archive somehwere on your home folder, then open it on your file manager. The file named "Ryujinx" is your executable (like Ryujinx.exe is on Windows.) When you run an executable on Windows a pop up asks for your permission to execute the file, on Linux there's no pop-up usually but you also have to give permission. To do so you can either right click the Ryujixn file, go to properties an enable the checkbox like that
+![image](https://user-images.githubusercontent.com/26039434/123709347-99521a00-d875-11eb-8ec5-864e728b86a3.png)
+
