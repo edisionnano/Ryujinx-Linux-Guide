@@ -15,3 +15,9 @@ Unlike Windows or Mac Os on Linux we have to ability to choose our desktop envir
 * GNOME Shell: This is the most popular desktop environment for Linux. Many others are based on it too like Pantheon or Budgie. Sadly Gnome shell isn't very good since it's slow and doesn't give muc freedom to each users; for example you can't have desktop shortcuts. It also doesn't allow us to disable the Compositor (explained bellow) which is vital when gaming.
 * KDE Plasma: By default it looks like the Windows 10 environment you are probably accustomed to but better although its highly customizable and can be turned into anything, for example some people use KDE to make Linux look exactly like Mac OS, the possibilities are endless. KDE also performs the best out of all the desktop environments. (Bonus feature:Wobbly windows!)
 * XFCE: A lighter desktop environment moslty meant for older PCs, a good alternative if you don't like KDE. While it isn't particularly eye-catching by default you can make it look good.
+
+## Installing and setting up Ryujinx
+There are two ways to use Rujinx on a Linux system; you can either download it from the website and run the executable file or use the installer script Pinejinx to install it on your system like a normal app with some GPU vendor specific optimizations. Both ways will be covered.
+
+### A. Downloading and running Ryujinx manually
+First of all you have to download Ryujinx, this can be the master version from the [official website](https://ryujinx.org/download/), the LDN build from the [Patreon page](https://www.patreon.com/posts/introducing-ldn2-45268370) or a PR testing build posted by the bot on GitHub.
