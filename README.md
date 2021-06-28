@@ -5,7 +5,7 @@ The purpose of this guide is to help your way arround using Linux and Ryujinx. T
 Linux isn't an operating system but rather a kernel (like NT is for Windows), the heart of an operating system (os) that developers use in order to create an operating system, Linux based operating systemw are called distributions or distros.
 You may already have a working Linux installation but if you haven't you are probably wondering which distro suits you best out of the many that exist.
 Since there are so many Linux distros, while Ryujinx strives to work everywhere it's a bit challenging to support them all so you should probably choose a more popular distribution like the ones discussed bellow.<br>
-*Ubuntu<br>
-*POP Os<br>
-*Mint<br>
-*Arch<br>
+* Ubuntu: The most well known distro, based on Debian and has many flavors to choose from. It may not be the fastest or have latest packages but it's easy to setup and works out-of-the-box most of the times. If you are going to get this one opt for the Kubuntu flavor since it uses KDE (Desktop Environments are explained bellow).<br>
+* POP Os: A new contester created by hardware manufacturer System76 based on Ubuntu with some useless stuff removed (like snap packages), a new simpler theme and some features like tiling. Considering Pop Os only offers Gnome and forces you to use GPT on your hard drive it isn't recommended much.<br>
+* Mint: A well known distro based on Ubuntu (or Debian if you choose LMDE) that aims to be noob friendly. It has it's own minty green charm and is a good starting point for beginners. For performance reasons the XFCE flavor is recommended.<br>
+* Arch: Perhaps the best distro all arround. Arch lets you pick what you want your os to have and give you the tools to do it. Thanks to this we can get performance unmatched by the above distros since we can choose only the things we need and nothing more. It has a big community, the best linux Wiki and the biggest collectio of software on the Arch User Repository that has pretty much everything. One downside of Arch is that installing it isn't very easy but there's a graphical installer called Calamarch that can make up for it. If you choose Calamarch just choose KDE and nothing else when it aks you to. (If you have an Nvidia GPU you need to choose the NVIDIA drivers too, for AMD or Intel don't pick any)<br>
