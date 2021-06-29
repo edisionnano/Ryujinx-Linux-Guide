@@ -26,3 +26,11 @@ Or if you prefer using the Terminal(Command Prompt/CMD) by using the chmod comma
 To run Ryujinx search for the app called Terminal or Konsole if you are on KDE (Ctrl+Alt+T also brings it up usually), drag and drop the "Ryujinx" file on it then press enter, like that:
 
 https://user-images.githubusercontent.com/26039434/123820439-445ce500-d903-11eb-90d7-619404b9c214.mp4
+
+### B. Using Pinejinx
+The second method is easier and better in some aspects since it involves a script that will set-up everything for you. To use (Pinejinx)[https://github.com/edisionnano/Pine-jinx] simply open up the Terminal app and pste<br>
+`bash -c "$(curl -s https://raw.githubusercontent.com/edisionnano/Pine-jinx/main/pinejinx.sh)"`<br>
+for the master version of Ryujinx or<br>
+` bash -c "$(curl -s https://raw.githubusercontent.com/edisionnano/Pine-jinx/LDN/pinejinx.sh)" `<br>
+for the LDN one.<br>
+The use of the script is very simple first you type `1` and press enter to download the build, then you will be asked if you want gamemode or not. Gamemode is a tool that can improve performance on the default kernel that your distro has, it can also suspend screen dimming. If you have changed the kernel yourself to a TKG one (as discussed bellow), don't use it since it can drop your performance. If the script warns you in bright red letters that you should install gamemode then this means that gamemode isn't installed and if you choose Y you should install it or else Ryujinx won't run. The default option is no so if you don't want to use it press enter, if you do then type `y` and press enter.
