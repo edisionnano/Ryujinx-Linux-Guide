@@ -24,3 +24,5 @@ First of all you have to download Ryujinx, this can be the master version from t
 ![image](https://user-images.githubusercontent.com/26039434/123709347-99521a00-d875-11eb-8ec5-864e728b86a3.png)
 Or if you prefer using the Terminal(Command Prompt/CMD) by using the chmod command to give executable permissions like that: `chmod +x Ryujinx`<br>
 To run Ryujinx search for the app called Terminal or Konsole if you are on KDE (Ctrl+Alt+T also brings it up usually), drag and drop the "Ryujinx" file on it then press enter, like that:
+
+https://user-images.githubusercontent.com/26039434/123820439-445ce500-d903-11eb-90d7-619404b9c214.mp4
