@@ -1,5 +1,5 @@
 # Ryujinx Linux Guide
-If you are an AMD/Intel GPU user (or even an NVIDIA one) you may want to switch to Linux for various reasons, freedom, no surveilance, performance. This guide aims to help you.
+If you are an AMD/Intel GPU user (or even an NVIDIA one) you may want to switch to Linux for various reasons such as freedom, no surveilance, performance. This guide aims to help you.
 
 ## Picking a Distro
 If you don't already have a Linux distro installed you may need some guidance as to which distro you shall choose. In general Arch is a recommended distro due to the vast ammount of latest software available to it thanks to Pacman (the package manager) and the AUR (the all-inclusive arch repository where anyone can submit packages) and the Arch Wiki which helps in every occasion. While Arch is so good, it requires some skill and time to install it for the first time since when you boot the Live-CD you are met with a TTY (terminal) interface where you should use commands to install the OS although this isn't as bad as it sounds and is the recommended way. If you want a Live CD with an installer and a GUI for installing Arch, I recommend Reborn OS, an Antegros fork.
